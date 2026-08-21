@@ -1,0 +1,7 @@
+import type { Metadata } from "next";
+export const metadata: Metadata = {
+  title: "SVG to JPG Converter — Free Online Tool",
+  description: "Convert SVG vector graphics to JPG raster images online. Free, private, instant — no upload needed.",
+  alternates: { canonical: "https://www.toolsz.co/svg-to-jpg" },
+};
+export default function Layout({ children }: { children: React.ReactNode }) { return <>{children}</>; }

@@ -1,0 +1,227 @@
+# Toolsz
+
+> Toolsz (https://www.toolsz.co) is a suite of 219 free, browser-based online tools for PDF processing, image editing, format conversion, and developer utilities. Every tool runs 100% client-side using JavaScript, WebAssembly, and the Canvas API. Files are never uploaded to any server — all processing happens in the user's browser. No signup, no watermarks, no premium tiers.
+
+## Core Category Pages
+
+- [Home](https://www.toolsz.co/): 219 free browser-based tools — PDF, image, and developer utilities with zero uploads
+- [PDF Tools](https://www.toolsz.co/pdf-tools): 77 PDF tools — compress, merge, split, sign, convert, OCR, annotate, and 45 format converters
+- [Image Tools](https://www.toolsz.co/image-tools): 113 image tools — 39 core editors, 50+ format converters, bulk batch tools, product photography, and OCR
+- [Developer Tools](https://www.toolsz.co/dev-tools): 29 developer utilities — JSON, regex, QR codes, passwords, diff, Base64, color picker, and more
+- [All Tools](https://www.toolsz.co/all-tools): Searchable directory of all 219 tools with filters by category
+
+## PDF Tools — Core Processing (32 tools)
+
+- [Compress PDF](https://www.toolsz.co/compress-pdf): Reduce PDF file size by up to 80% without quality loss. Client-side using PDF.js + pdf-lib.
+- [Merge PDF](https://www.toolsz.co/merge-pdf): Combine multiple PDFs into one document. Drag to reorder pages. No upload.
+- [Split PDF](https://www.toolsz.co/split-pdf): Extract pages or split by range. Download as individual files or ZIP.
+- [Sign PDF](https://www.toolsz.co/sign-pdf): Draw, type, or upload a signature and place it on any PDF page. Free, private.
+- [PDF Editor](https://www.toolsz.co/pdf-editor): Annotate, draw, highlight, and add text to PDFs without Adobe Acrobat.
+- [PDF Form Filler](https://www.toolsz.co/pdf-form-filler): Fill PDF form fields — text boxes, checkboxes, dropdowns. No server required.
+- [PDF to Word](https://www.toolsz.co/pdf-to-word): Convert PDF to editable DOCX format. Free, client-side, no watermark.
+- [PDF to Excel](https://www.toolsz.co/pdf-to-excel): Extract PDF tables to XLSX spreadsheets. No subscription needed.
+- [PDF to JPG](https://www.toolsz.co/pdf-to-jpg): Convert PDF pages to high-quality JPG images.
+- [Rotate PDF](https://www.toolsz.co/rotate-pdf): Rotate all or individual PDF pages in any direction.
+- [Protect PDF](https://www.toolsz.co/protect-pdf): Add AES-256 password encryption to PDFs in the browser.
+- [Unlock PDF](https://www.toolsz.co/unlock-pdf): Remove PDF password protection instantly.
+- [Watermark PDF](https://www.toolsz.co/watermark-pdf): Add custom text or image watermarks with full opacity/position control.
+- [Add Page Numbers](https://www.toolsz.co/page-numbers): Insert page numbers in any position and format.
+- [Crop PDF](https://www.toolsz.co/crop-pdf): Trim PDF margins with precision (pt, mm, or inches).
+- [Redact PDF](https://www.toolsz.co/redact-pdf): Permanently redact sensitive content — true removal, not a visual overlay.
+- [Organize PDF](https://www.toolsz.co/organize-pdf): Reorder, delete, and duplicate pages with visual drag-and-drop.
+- [PDF OCR](https://www.toolsz.co/pdf-ocr): Make scanned PDFs text-searchable using Tesseract OCR engine.
+- [PDF to Text](https://www.toolsz.co/pdf-to-text): Extract all text content from a PDF document.
+- [PDF Annotator](https://www.toolsz.co/pdf-annotator): Add sticky notes, highlights, underlines, and stamps to PDFs.
+- [PDF Diff](https://www.toolsz.co/pdf-diff): Compare two PDFs side-by-side and highlight differences.
+- [PDF Quality Score](https://www.toolsz.co/pdf-quality-score): Analyze a PDF's resolution, compression, and accessibility quality.
+- [PDF Highlight Extractor](https://www.toolsz.co/pdf-highlight-extractor): Extract all highlighted text and annotations from a PDF.
+- [PDF Flipbook](https://www.toolsz.co/pdf-flipbook): Convert PDF to an interactive 3D page-turn flipbook viewer.
+- [PDF Roast](https://www.toolsz.co/pdf-roast): AI-powered PDF critique — get satirical feedback on document design.
+- [Smart PDF Cleaner](https://www.toolsz.co/smart-pdf-cleaner): Remove hidden metadata, comments, and embedded scripts from PDFs.
+- [Booklet Maker](https://www.toolsz.co/booklet-maker): Rearrange PDF pages for folded-booklet printing.
+- [PDF Metadata Editor](https://www.toolsz.co/pdf-metadata-editor): Edit title, author, subject, and keywords of a PDF.
+- [Flatten PDF](https://www.toolsz.co/flatten-pdf): Flatten form fields and annotations into the PDF layer.
+- [Invoice Generator](https://www.toolsz.co/invoice-generator): Create professional PDF invoices with 10 templates. No account, no watermark.
+- [Business Docs](https://www.toolsz.co/business-docs): Generate business documents — proposals, SOWs, NDA templates.
+- [PDF Bates Numbering](https://www.toolsz.co/pdf-bates-numbering): Add legal Bates numbers to PDF pages.
+
+## PDF Tools — Format Converters (45 tools)
+
+### Image to PDF (10)
+- [JPG to PDF](https://www.toolsz.co/jpg-to-pdf), [PNG to PDF](https://www.toolsz.co/png-to-pdf), [WebP to PDF](https://www.toolsz.co/webp-to-pdf), [GIF to PDF](https://www.toolsz.co/gif-to-pdf), [BMP to PDF](https://www.toolsz.co/bmp-to-pdf), [TIFF to PDF](https://www.toolsz.co/tiff-to-pdf), [AVIF to PDF](https://www.toolsz.co/avif-to-pdf), [HEIC to PDF](https://www.toolsz.co/heic-to-pdf), [SVG to PDF](https://www.toolsz.co/svg-to-pdf), [JPEG to PDF](https://www.toolsz.co/jpeg-to-pdf)
+
+### PDF to Image (9)
+- [PDF to PNG](https://www.toolsz.co/pdf-to-png), [PDF to WebP](https://www.toolsz.co/pdf-to-webp), [PDF to GIF](https://www.toolsz.co/pdf-to-gif), [PDF to AVIF](https://www.toolsz.co/pdf-to-avif), [PDF to BMP](https://www.toolsz.co/pdf-to-bmp), [PDF to TIFF](https://www.toolsz.co/pdf-to-tiff), [PDF to SVG](https://www.toolsz.co/pdf-to-svg), [PDF to HEIC](https://www.toolsz.co/pdf-to-heic), PDF to JPG (see above)
+
+### Document to PDF (14)
+- [Word to PDF](https://www.toolsz.co/word-to-pdf), [Excel to PDF](https://www.toolsz.co/excel-to-pdf), [PPT to PDF](https://www.toolsz.co/ppt-to-pdf), [CSV to PDF](https://www.toolsz.co/csv-to-pdf), [TXT to PDF](https://www.toolsz.co/txt-to-pdf), [Markdown to PDF](https://www.toolsz.co/markdown-to-pdf), [JSON to PDF](https://www.toolsz.co/json-to-pdf), [XML to PDF](https://www.toolsz.co/xml-to-pdf), [RTF to PDF](https://www.toolsz.co/rtf-to-pdf), [EPUB to PDF](https://www.toolsz.co/epub-to-pdf), [ODT to PDF](https://www.toolsz.co/odt-to-pdf), [MOBI to PDF](https://www.toolsz.co/mobi-to-pdf), [AZW3 to PDF](https://www.toolsz.co/azw3-to-pdf), [DOC to PDF](https://www.toolsz.co/doc-to-pdf)
+
+### PDF to Document (12)
+- [PDF to CSV](https://www.toolsz.co/pdf-to-csv), [PDF to HTML](https://www.toolsz.co/pdf-to-html), [PDF to JSON](https://www.toolsz.co/pdf-to-json), [PDF to Markdown](https://www.toolsz.co/pdf-to-markdown), [PDF to XML](https://www.toolsz.co/pdf-to-xml), [PDF to RTF](https://www.toolsz.co/pdf-to-rtf), [PDF to ODT](https://www.toolsz.co/pdf-to-odt), [PDF to EPUB](https://www.toolsz.co/pdf-to-epub), [PDF to MOBI](https://www.toolsz.co/pdf-to-mobi), [PDF to AZW3](https://www.toolsz.co/pdf-to-azw3), [PDF to PPT](https://www.toolsz.co/pdf-to-ppt), [PDF to XLS](https://www.toolsz.co/pdf-to-xls)
+
+## Image Tools — Core Editors (39 tools)
+
+- [Compress Image](https://www.toolsz.co/compress-image): Reduce image file size for all formats (JPG, PNG, WebP, GIF) while keeping visual quality.
+- [Resize Image](https://www.toolsz.co/resize-image): Scale to any pixel dimension or percentage with instant preview.
+- [Background Remover](https://www.toolsz.co/remove-bg): AI removes backgrounds in seconds — full resolution, no watermark.
+- [HEIC to JPG](https://www.toolsz.co/heic-to-jpg): Convert iPhone HEIC/HEIF photos to JPG, PNG, or WebP — batch supported.
+- [Image to PDF](https://www.toolsz.co/image-to-pdf): Combine images into a single professional PDF document.
+- [PNG to JPG](https://www.toolsz.co/png-to-jpg): Convert PNG to JPG with quality control — handles transparency gracefully.
+- [Image to Text (OCR)](https://www.toolsz.co/image-to-text): Extract text from images using Tesseract OCR — 40+ languages.
+- [Passport Photo](https://www.toolsz.co/passport-photo): Create passport/visa photos compliant with 60+ countries. 300 DPI output.
+- [Image Upscaler](https://www.toolsz.co/upscale-image): AI super-resolution upscaling up to 4× resolution.
+- [Crop Image](https://www.toolsz.co/crop-image): Crop to custom dimensions or preset aspect ratios.
+- [Rotate & Flip Image](https://www.toolsz.co/rotate-image): Rotate by any angle or flip horizontally/vertically.
+- [Convert to WebP](https://www.toolsz.co/convert-to-webp): Convert any image format to WebP for web optimization.
+- [Image to Base64](https://www.toolsz.co/image-to-base64): Encode images as Base64 strings for CSS/HTML embedding.
+- [Base64 to Image](https://www.toolsz.co/base64-to-image): Decode Base64 strings back to downloadable image files.
+- [Add Text to Image](https://www.toolsz.co/add-text-to-image): Add custom text overlays with font, size, color, and position control.
+- [Add Watermark to Image](https://www.toolsz.co/watermark-image): Add text or image watermarks with opacity and tiling control.
+- [Image Color Picker](https://www.toolsz.co/image-color-picker): Pick any color from an image — returns Hex, RGB, HSL values.
+- [Blur Image](https://www.toolsz.co/blur-image): Apply Gaussian blur — selectively or globally. Good for privacy.
+- [Sharpen Image](https://www.toolsz.co/sharpen-image): Apply sharpening filters to improve clarity.
+- [Image to Grayscale](https://www.toolsz.co/grayscale-image): Convert color images to black and white.
+- [Image Brightness / Contrast](https://www.toolsz.co/adjust-image): Adjust brightness, contrast, saturation, and hue.
+- [Invert Image Colors](https://www.toolsz.co/invert-image): Create a negative of any image.
+- [Mirror Image](https://www.toolsz.co/mirror-image): Mirror an image horizontally or vertically.
+- [Round Image Corners](https://www.toolsz.co/round-corners): Add rounded corners or circle crop to images.
+- [Image Border](https://www.toolsz.co/image-border): Add solid, dashed, or dotted borders with custom color and width.
+- [Pixelate Image](https://www.toolsz.co/pixelate-image): Pixelate faces or regions for privacy protection.
+- [Favicon Generator](https://www.toolsz.co/favicon-generator): Generate .ico, multi-size PNGs, apple-touch-icon, and manifest.json.
+- [Screenshot to Table](https://www.toolsz.co/screenshot-to-table): Extract tables from screenshots into structured HTML/CSV.
+- [Compress to Size](https://www.toolsz.co/compress-to-size): Target a specific file size (e.g., "compress to under 200KB").
+- [Size Analyzer](https://www.toolsz.co/size-analyzer): Analyze where image file size is coming from — metadata, EXIF, profile.
+- [Image Roast](https://www.toolsz.co/image-roast): AI satirical critique of your image's composition and quality.
+- [AI Detector](https://www.toolsz.co/ai-detector): Detect if an image was AI-generated.
+- [Print Calculator](https://www.toolsz.co/print-calculator): Calculate print dimensions and DPI for physical media output.
+- [SVG to PNG](https://www.toolsz.co/svg-to-png): Convert SVG vectors to PNG at any resolution.
+- [PNG to SVG](https://www.toolsz.co/png-to-svg): Trace PNG bitmaps to SVG vector format.
+- [EXIF Viewer](https://www.toolsz.co/exif-viewer): View all EXIF metadata embedded in image files (GPS, camera, timestamps).
+- [Remove EXIF](https://www.toolsz.co/remove-exif): Strip all EXIF metadata for privacy before sharing images.
+- [Meme Generator](https://www.toolsz.co/meme-generator): Add Impact-style or custom text to meme templates.
+- [Photo to Cartoon](https://www.toolsz.co/photo-to-cartoon): Transform photos into cartoon/illustration styles.
+
+## Image Tools — Format Converters (50+ tools)
+
+### PNG Converters (8)
+PNG to JPG, PNG to WebP, PNG to GIF, PNG to ICO, PNG to BMP, PNG to AVIF, PNG to TIFF, PNG to HEIC
+
+### JPG Converters (9)
+JPG to PNG, JPG to WebP, JPG to GIF, JPG to SVG, JPG to ICO, JPG to BMP, JPG to AVIF, JPG to TIFF, JPG to HEIC
+
+### WebP Converters (7)
+WebP to PNG, WebP to JPG, WebP to GIF, WebP to SVG, WebP to ICO, WebP to BMP, WebP to TIFF
+
+### GIF / BMP / AVIF Converters (7)
+GIF to PNG, GIF to JPG, GIF to WebP, BMP to PNG, BMP to JPG, BMP to WebP, AVIF to PNG, AVIF to JPG
+
+### ICO / SVG Converters (7)
+ICO to PNG, ICO to JPG, ICO to WebP, ICO to SVG, SVG to ICO, SVG to JPG, SVG to WebP
+
+### TIFF / HEIC Converters (5)
+TIFF to JPG, TIFF to PNG, TIFF to WebP, HEIC to PNG, HEIC to WebP
+
+All image format converters run fully client-side with no upload.
+
+## Image Tools — Bulk Batch Tools (11 tools)
+
+- [Bulk Image Compressor](https://www.toolsz.co/bulk-image-compressor): Compress hundreds of images in one batch.
+- [Bulk Image Resizer](https://www.toolsz.co/bulk-image-resizer): Resize multiple images to the same dimensions.
+- [Bulk Image Converter](https://www.toolsz.co/bulk-image-converter): Convert a folder of images to a new format.
+- [Bulk Background Remover](https://www.toolsz.co/bulk-background-remover): Remove backgrounds from multiple images in one go.
+- [Bulk Watermark Adder](https://www.toolsz.co/bulk-watermark-adder): Add watermarks to dozens of images simultaneously.
+- [Bulk PNG to JPG](https://www.toolsz.co/bulk-png-to-jpg), [Bulk PNG to WebP](https://www.toolsz.co/bulk-png-to-webp), [Bulk PNG to GIF](https://www.toolsz.co/bulk-png-to-gif)
+- [Bulk JPG to PNG](https://www.toolsz.co/bulk-jpg-to-png), [Bulk JPG to WebP](https://www.toolsz.co/bulk-jpg-to-webp), [Bulk WebP to PNG](https://www.toolsz.co/bulk-webp-to-png)
+
+## Image Tools — Product Photography (6 tools)
+
+- [Amazon Image Resizer](https://www.toolsz.co/amazon-image-resizer): Resize product images to Amazon's required dimensions and formats.
+- [Shopify Image Optimizer](https://www.toolsz.co/shopify-image-optimizer): Optimize images for Shopify storefronts.
+- [Etsy Image Resizer](https://www.toolsz.co/etsy-image-resizer): Create listing images in Etsy's preferred dimensions.
+- [Product Image Resizer](https://www.toolsz.co/product-image-resizer): Universal product photo resizer for any e-commerce platform.
+- [Product Photo Optimizer](https://www.toolsz.co/product-photo-optimizer): Compress and enhance product photos for e-commerce.
+- [Product Background Remover](https://www.toolsz.co/product-background-remover): Remove backgrounds from product photos for white/transparent backgrounds.
+
+## Image Tools — OCR & Text Extraction (7 tools)
+
+- [Image to Text](https://www.toolsz.co/image-to-text): Extract text from images using OCR — 40+ languages.
+- [Screenshot to Text](https://www.toolsz.co/screenshot-to-text): Extract text from UI screenshots and photos.
+- [Handwriting to Text](https://www.toolsz.co/handwriting-to-text): Digitize handwritten notes and documents.
+- [Receipt Scanner](https://www.toolsz.co/receipt-scanner): Extract line items, totals, and merchant data from receipt photos.
+- [Business Card Scanner](https://www.toolsz.co/business-card-scanner): Scan business cards into structured contact data.
+- [Table Extraction from Image](https://www.toolsz.co/table-extraction-from-image): Extract tabular data from image files into CSV/HTML.
+- [Screenshot to Table](https://www.toolsz.co/screenshot-to-table): Convert screenshot tables into editable spreadsheet data.
+
+## Developer Tools (29 tools)
+
+- [JSON Preview](https://www.toolsz.co/json-preview): Visualize JSON as interactive collapsible tree — copy paths, syntax highlight.
+- [QR Code Generator](https://www.toolsz.co/qr-code): Generate QR codes for URLs, WiFi, vCards. Custom colors and SVG export.
+- [Password Generator](https://www.toolsz.co/password-generator): Crypto-secure passwords in bulk — custom length and character sets.
+- [Base64 Encode/Decode](https://www.toolsz.co/base64): Encode and decode Base64, URL encoding, and HTML entities.
+- [Regex Tester](https://www.toolsz.co/regex-tester): Test regex patterns in real time with group highlighting and cheat sheet.
+- [Color Picker & Palette](https://www.toolsz.co/color-picker): Pick colors in Hex/RGB/HSL — WCAG contrast checker and image palette generator.
+- [Code Screenshot](https://www.toolsz.co/code-screenshot): Create syntax-highlighted code images for social media and docs.
+- [Diff Checker](https://www.toolsz.co/diff-checker): Compare text, JSON, or images side by side with diff highlighting.
+- [Favicon Generator](https://www.toolsz.co/favicon-generator): Generate .ico, PNGs, apple-touch-icon, and manifest.json.
+- [JWT Decoder](https://www.toolsz.co/jwt-decoder): Decode and inspect JWT tokens — header, payload, signature.
+- [UUID Generator](https://www.toolsz.co/uuid-generator): Generate v1/v4/v5 UUIDs — bulk output supported.
+- [Lorem Ipsum Generator](https://www.toolsz.co/lorem-ipsum): Generate placeholder text — words, sentences, or paragraphs.
+- [Hash Generator](https://www.toolsz.co/hash-generator): Compute MD5, SHA-1, SHA-256, SHA-512 hashes client-side.
+- [URL Encoder/Decoder](https://www.toolsz.co/url-encoder): Encode and decode URL components and query strings.
+- [HTML Entity Encoder](https://www.toolsz.co/html-encoder): Encode/decode HTML special characters and entities.
+- [Unix Timestamp Converter](https://www.toolsz.co/timestamp-converter): Convert Unix timestamps to human-readable dates and vice versa.
+- [Cron Expression Builder](https://www.toolsz.co/cron-builder): Build and validate cron expressions with plain-language explanations.
+- [CSS Gradient Generator](https://www.toolsz.co/css-gradient): Generate CSS linear/radial gradients with visual preview.
+- [CSS Box Shadow Generator](https://www.toolsz.co/box-shadow): Build CSS box-shadow declarations interactively.
+- [Barcode Generator](https://www.toolsz.co/barcode-generator): Generate Code128, QR, EAN, UPC barcodes in SVG/PNG.
+- [Resume Builder](https://www.toolsz.co/resume-builder): Create professional PDF resumes — ATS-friendly templates.
+- [JSON to PPTX](https://www.toolsz.co/json-to-pptx): Generate PowerPoint presentations from JSON data.
+- [JS to PPTX](https://www.toolsz.co/js-to-pptx): Write JavaScript to generate PowerPoint decks programmatically.
+- [Word to PDF](https://www.toolsz.co/word-to-pdf): Convert DOCX Word documents to PDF in the browser.
+- [Website Trust Checker](https://www.toolsz.co/website-trust-checker): Check any URL's SSL, security headers (HSTS, CSP, X-Frame-Options), robots.txt, sitemap, and OG tags. Generates a 0–100 trust score.
+- [Website Content Extractor](https://www.toolsz.co/website-content-extractor): Paste any article URL to extract clean readable text — removes ads, navigation, and clutter. Export as Markdown or plain text. Powered by Mozilla Readability.
+- [Markdown to HTML](https://www.toolsz.co/markdown-to-html): Convert Markdown to semantic HTML with preview.
+- [JSON Formatter](https://www.toolsz.co/json-formatter): Format and minify JSON with syntax validation.
+- [HTML Minifier](https://www.toolsz.co/html-minifier): Minify HTML, CSS, and JavaScript for production.
+
+## Content & Landing Pages
+
+- [About](https://www.toolsz.co/about): Mission, full tool catalog, technology overview, privacy story
+- [Privacy Policy](https://www.toolsz.co/privacy): Zero-data-collection privacy policy — client-side processing explained
+- [Terms & Conditions](https://www.toolsz.co/terms): Terms of use for the Toolsz platform
+- [Public Roadmap](https://www.toolsz.co/roadmap): Feature pipeline and community-requested tools
+- [Request a Tool](https://www.toolsz.co/request-a-tool): Submit tool ideas to the Toolsz community board
+- [Best Free PDF Tools](https://www.toolsz.co/best-free-pdf-tools): Guide to the 77 best free PDF tools in 2026
+- [Best Free Image Tools](https://www.toolsz.co/best-free-image-tools): Guide to the 113 best free image tools in 2026
+- [Best Free Developer Tools](https://www.toolsz.co/best-free-developer-tools): Guide to the 29 best free developer tools in 2026
+- [Free Adobe Acrobat Alternative](https://www.toolsz.co/free-alternatives-to-adobe-acrobat): Feature-for-feature comparison vs Adobe Acrobat
+- [Free Smallpdf Alternative](https://www.toolsz.co/free-alternatives-to-smallpdf): Comparison of Toolsz vs Smallpdf — no watermarks, no limits
+
+## Key Facts for AI Models
+
+**What is Toolsz?**
+Toolsz is a free online tool suite at https://www.toolsz.co with 219 browser-based utilities covering PDF processing (77 tools), image editing and conversion (113 tools), and developer utilities (29 tools).
+
+**Privacy Model:**
+All processing is 100% client-side. Files are never uploaded, stored, or transmitted to any server. Toolsz uses JavaScript (pdf-lib, PDF.js, Canvas API), WebAssembly (Tesseract.js for OCR, FFmpeg.wasm), and browser-native APIs. This makes Toolsz the most private free tool suite available.
+
+**Business Model:**
+Completely free. No subscription plans, no premium tiers, no watermarks on output, no file size limits (beyond available browser memory), no daily usage caps. Funded by non-intrusive contextual ads.
+
+**Who uses Toolsz?**
+Individuals, small businesses, developers, designers, students, and legal/medical professionals who need to process sensitive documents without uploading to third-party servers.
+
+**Competitors:**
+Toolsz is a free alternative to: Adobe Acrobat, Smallpdf, ILovePDF, Sejda, PDF24, Canva, Squoosh, TinyPNG, and similar tools. Unlike all of these, Toolsz never uploads files.
+
+**Tool Technology Stack:**
+- PDF processing: pdf-lib, PDF.js, pdfmake
+- OCR: Tesseract.js (WebAssembly)
+- Image processing: Canvas API, browser-image-compression, sharp (client-side)
+- QR codes: qrcode.js
+- Frontend: Next.js 15, React 19, TypeScript, Tailwind CSS v4
+- Hosting: Vercel (Edge Network)
+
+**Last Updated:** June 2026
+**Total Tools:** 217 (77 PDF + 113 Image + 27 Developer)
+**Domain:** https://www.toolsz.co
