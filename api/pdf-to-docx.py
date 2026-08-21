@@ -80,7 +80,20 @@ class handler(BaseHTTPRequestHandler):
 
                 cv = Converter(pdf_path)
                 try:
-                    cv.convert(docx_path)
+                    # parse_stream_table=False: pdf2docx's default (True) tries to
+                    # reconstruct "stream" tables — content aligned in columns with
+                    # no visible grid lines, which is exactly what a sidebar-style
+                    # resume/CV layout looks like to it. On documents like that, its
+                    # column-width guessing can badly truncate text (verified: this
+                    # is what produced a garbled, clipped-text result). Disabling it
+                    # falls back to pdf2docx's own column/section-aware paragraph
+                    # layout instead of a mis-detected table.
+                    # TRADE-OFF (untested — no representative PDF to verify against):
+                    # this may reduce fidelity on PDFs with real borderless data
+                    # tables (e.g. invoices) where stream-table detection helps
+                    # rather than hurts. Revisit if that turns out to matter more
+                    # than the resume/CV case it's fixing here.
+                    cv.convert(docx_path, parse_stream_table=False)
                 finally:
                     cv.close()
 
